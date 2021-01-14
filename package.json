@@ -1,0 +1,23 @@
+{
+  "name": "superdeploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elias-Calagiu/superdeploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elias-Calagiu/superdeploy/issues"
+  },
+  "homepage": "https://github.com/Elias-Calagiu/superdeploy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
